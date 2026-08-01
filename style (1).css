@@ -1,0 +1,24 @@
+body {
+    background-color: #1a1a1a;
+    color: white;
+}
+
+fieldset {
+    border-color: pink;
+}
+
+button {
+    background-color: #800020;
+}
+
+input {
+    border-radius: 8px;
+    padding: 8px;
+    border: 2px solid pink;
+}
+fieldset {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 2px solid pink;
+    border-radius: 15px;
+}
